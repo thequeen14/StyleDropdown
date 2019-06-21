@@ -1,0 +1,7 @@
+$('.selectTest').select2();
+
+/*$('.select2').on('change', function() {
+var optionSelected = $('.select2 option:selected');
+optionSelected.style.backgroundColor = '#8B565A';
+optionSelected.style.color = '#ffffff';
+})*/
